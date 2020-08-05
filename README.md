@@ -2,7 +2,7 @@
 
 A aplicações foi desenvolvida em assembly MIPS e tem como finalidade a gestão de gastos pessoais.
 
-# Funcionalidades
+## Funcionalidades
 
 - Controle de gastos.
 - Adicionar despesas.
